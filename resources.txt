@@ -1,0 +1,27 @@
+Set up CORS
+https://flask-cors.readthedocs.io/en/latest/#resource-specific-cors
+*********
+AttributeError: module 'time' has no attribute 'clock' in Python 3.8
+https://stackoverflow.com/questions/58569361/attributeerror-module-time-has-no-attribute-clock-in-python-3-8
+*********
+TypeError: required field "type_ignores" missing from Module
+https://stackoverflow.com/questions/60140174/basic-flask-app-not-running-typeerror-required-field-type-ignores-missing-fr
+*********
+Links used to learn how to loop through categories
+https://stackoverflow.com/questions/39761252/better-way-to-loop-through-nested-categories
+https://stackoverflow.com/questions/60676971/flask-python-displaying-categories-and-subcategories-as-optgroup-label-and-o
+https://www.youtube.com/watch?v=23roIhUgryA
+********
+search questions
+https://flask-restless.readthedocs.io/en/latest/filtering.html
+********
+post questions by category
+https://stackoverflow.com/questions/54218766/getting-specific-post-category-in-flask
+*********
+get questions by categories
+https://stackoverflow.com/questions/35774307/how-to-get-one-record-with-sqlalchemy
+********
+Unit Test
+https://www.youtube.com/watch?v=UZyZw4tYJMI
+https://www.youtube.com/watch?v=sIODSMgqHIE
+https://docs.python.org/3/library/unittest.html
